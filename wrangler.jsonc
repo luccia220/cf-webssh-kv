@@ -12,9 +12,6 @@
   "kv_namespaces": [
     {
       "binding": "WEBSSH_KV"
-      "id": "80ff1e61a7e849cca745b179e9426138"
-
-
     }
   ],
   "observability": {
